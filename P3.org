@@ -1,0 +1,66 @@
+#+TITLE: Réalisez une étude de santé publique
+#+SUBTITLE: Notes
+
+
+* Q1
+
+* Q2
+ CAS = production*100/(production + importations - exportations)
+ TDI = importations*100/(production + importations - exportations)
+ 1 kcal = 4 184 kJ
+ 1 calorie = 4,19 kilojoules
+
+Disponibilité intérieure = Production + Importations - Exportations + évolution des stocks = Nourriture + Aliments pour animaux + Semences + Pertes + Traitement + Autres Utilisations
+
+* Q3
+df3_dak_all = pd.read_csv("Q3DAK.csv")
+In [13]:
+
+df3_dak_pays = df3_dak_all.pivot_table(index=['Pays'], values=['Valeur'], aggfunc='sum')
+In [14]:
+
+df3_dak_prod = df3_dak_all.pivot_table(index=['Produit'], values=['Valeur'], aggfunc='sum')
+In [15]:
+
+df3_dak = df1.merge(df3_dak_pays, on=['Pays'])
+In [16]:
+
+df3_dak.columns = ['Pays', 'Population', 'Kcal/personne/jour']
+In [17]:
+
+df3_dak['Kcal'] = df3_dak['Kcal/personne/jour'] * df3_dak['Population'] * 1000 * 365
+In [18]:
+
+df3_dap_all = pd.read_csv("Q3DAP.csv")
+In [19]:
+
+df3_dap_pays = df3_dap_all.pivot_table(index=['Pays'], values=['Valeur'], aggfunc='sum')
+In [20]:
+
+df3_dap_prod = df3_dap_all.pivot_table(index=['Produit'], values=['Valeur'], aggfunc='sum')
+In [21]:
+
+df3_pays = df3_dak.merge(df3_dap_pays, on=['Pays'])
+In [22]:
+
+df3_pays.columns = ['Pays', 'Population', 'Kcal/personne/jour', 'Kcal', 'g/personne/jour']
+In [23]:
+
+df3_pays['Kg'] = df3_pays['g/personne/jour'] * 1000 * df3_pays['Population'] * 1000 * 365
+In [24]:
+
+* Q4
+df4_daq_all = pd.read_csv("Q4.csv")
+In [36]:
+
+df4_da = df4_daq_all.pivot_table(index=['Produit'], values=['Valeur'], aggfunc='sum')
+In [40]:
+
+df4_da = df4_da.merge(df3_dak_prod, on=['Produit'])
+In [42]:
+
+df4_da.columns = ['Quantité', 'kCal']
+In [44]:
+
+df4_da['énergie/poids'] = df4_da['kCal'] / df4_da['Quantité']
+In [45]:

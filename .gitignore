@@ -1,0 +1,8 @@
+# MacOs
+.DS_Store
+
+# Emacs
+.#*
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
