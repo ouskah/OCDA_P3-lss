@@ -33,7 +33,6 @@ Domain Code,Domain,Country Code,Country,Element Code,Element,Item Code,Item,Year
 "FBS","Food Balance Sheets","40","Chile","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","17620","","Official data"
 "FBS","Food Balance Sheets","96","China, Hong Kong SAR","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","7204","","Official data"
 "FBS","Food Balance Sheets","128","China, Macao SAR","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","566","","Official data"
-"FBS","Food Balance Sheets","41","China, mainland","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","1385567","","Official data"
 "FBS","Food Balance Sheets","214","China, Taiwan Province of","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","23330","","Official data"
 "FBS","Food Balance Sheets","44","Colombia","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","48321","","Official data"
 "FBS","Food Balance Sheets","46","Congo","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","4448","","Official data"
@@ -173,3 +172,4 @@ Domain Code,Domain,Country Code,Country,Element Code,Element,Item Code,Item,Year
 "FBS","Food Balance Sheets","249","Yemen","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","24407","","Official data"
 "FBS","Food Balance Sheets","251","Zambia","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","14539","","Official data"
 "FBS","Food Balance Sheets","181","Zimbabwe","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","14150","","Official data"
+"FBS","Food Balance Sheets","351","China","511","Total Population - Both sexes","2501","Population","2013","2013","1000 persons","1416667","A","Aggregate, may include official, semi-official, estimated or calculated data"
