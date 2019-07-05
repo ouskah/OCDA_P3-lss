@@ -15,4 +15,5 @@ sqlite> .mode csv
 sqlite> .import population_export.csv population
 sqlite> .import dispo_alim_export.csv dispo_alim
 sqlite> .import equilibre_prod_export.csv equilibre_prod
+sqlite> .import sous_nutrition_export.csv sous_nutrition
 ```

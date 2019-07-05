@@ -1,0 +1,1016 @@
+country_code,country,year,population
+2,Afghanistan,2011-2013,7.2
+2,Afghanistan,2012-2014,8.1
+2,Afghanistan,2013-2015,9
+2,Afghanistan,2014-2016,9.9
+2,Afghanistan,2015-2017,10.5
+3,Albania,2011-2013,0.2
+3,Albania,2012-2014,0.2
+3,Albania,2013-2015,0.2
+3,Albania,2014-2016,0.2
+3,Albania,2015-2017,0.2
+4,Algeria,2011-2013,1.9
+4,Algeria,2012-2014,1.8
+4,Algeria,2013-2015,1.8
+4,Algeria,2014-2016,1.9
+4,Algeria,2015-2017,1.9
+5,American Samoa,2011-2013,
+5,American Samoa,2012-2014,
+5,American Samoa,2013-2015,
+5,American Samoa,2014-2016,
+5,American Samoa,2015-2017,
+6,Andorra,2011-2013,
+6,Andorra,2012-2014,
+6,Andorra,2013-2015,
+6,Andorra,2014-2016,
+6,Andorra,2015-2017,
+7,Angola,2011-2013,8.8
+7,Angola,2012-2014,8
+7,Angola,2013-2015,7.3
+7,Angola,2014-2016,6.9
+7,Angola,2015-2017,6.9
+8,Antigua and Barbuda,2011-2013,
+8,Antigua and Barbuda,2012-2014,
+8,Antigua and Barbuda,2013-2015,
+8,Antigua and Barbuda,2014-2016,
+8,Antigua and Barbuda,2015-2017,
+9,Argentina,2011-2013,1.6
+9,Argentina,2012-2014,1.5
+9,Argentina,2013-2015,1.5
+9,Argentina,2014-2016,1.6
+9,Argentina,2015-2017,1.7
+1,Armenia,2011-2013,0.1
+1,Armenia,2012-2014,0.1
+1,Armenia,2013-2015,0.1
+1,Armenia,2014-2016,0.1
+1,Armenia,2015-2017,0.1
+10,Australia,2011-2013,<0.6
+10,Australia,2012-2014,<0.6
+10,Australia,2013-2015,<0.6
+10,Australia,2014-2016,<0.6
+10,Australia,2015-2017,<0.6
+11,Austria,2011-2013,<0.2
+11,Austria,2012-2014,<0.2
+11,Austria,2013-2015,<0.2
+11,Austria,2014-2016,<0.2
+11,Austria,2015-2017,<0.2
+52,Azerbaijan,2011-2013,<0.2
+52,Azerbaijan,2012-2014,<0.2
+52,Azerbaijan,2013-2015,<0.2
+52,Azerbaijan,2014-2016,<0.2
+52,Azerbaijan,2015-2017,<0.2
+12,Bahamas,2011-2013,
+12,Bahamas,2012-2014,
+12,Bahamas,2013-2015,
+12,Bahamas,2014-2016,
+12,Bahamas,2015-2017,
+13,Bahrain,2011-2013,
+13,Bahrain,2012-2014,
+13,Bahrain,2013-2015,
+13,Bahrain,2014-2016,
+13,Bahrain,2015-2017,
+16,Bangladesh,2011-2013,26.5
+16,Bangladesh,2012-2014,26.4
+16,Bangladesh,2013-2015,26.2
+16,Bangladesh,2014-2016,25.5
+16,Bangladesh,2015-2017,24.8
+14,Barbados,2011-2013,<0.1
+14,Barbados,2012-2014,<0.1
+14,Barbados,2013-2015,<0.1
+14,Barbados,2014-2016,<0.1
+14,Barbados,2015-2017,<0.1
+57,Belarus,2011-2013,<0.2
+57,Belarus,2012-2014,<0.2
+57,Belarus,2013-2015,<0.2
+57,Belarus,2014-2016,<0.2
+57,Belarus,2015-2017,<0.2
+255,Belgium,2011-2013,<0.3
+255,Belgium,2012-2014,<0.3
+255,Belgium,2013-2015,<0.3
+255,Belgium,2014-2016,<0.3
+255,Belgium,2015-2017,<0.3
+23,Belize,2011-2013,<0.1
+23,Belize,2012-2014,<0.1
+23,Belize,2013-2015,<0.1
+23,Belize,2014-2016,<0.1
+23,Belize,2015-2017,<0.1
+53,Benin,2011-2013,1.1
+53,Benin,2012-2014,1
+53,Benin,2013-2015,1
+53,Benin,2014-2016,1.1
+53,Benin,2015-2017,1.1
+17,Bermuda,2011-2013,
+17,Bermuda,2012-2014,
+17,Bermuda,2013-2015,
+17,Bermuda,2014-2016,
+17,Bermuda,2015-2017,
+18,Bhutan,2011-2013,
+18,Bhutan,2012-2014,
+18,Bhutan,2013-2015,
+18,Bhutan,2014-2016,
+18,Bhutan,2015-2017,
+19,Bolivia (Plurinational State of),2011-2013,2.3
+19,Bolivia (Plurinational State of),2012-2014,2.2
+19,Bolivia (Plurinational State of),2013-2015,2.1
+19,Bolivia (Plurinational State of),2014-2016,2.1
+19,Bolivia (Plurinational State of),2015-2017,2.2
+80,Bosnia and Herzegovina,2011-2013,<0.1
+80,Bosnia and Herzegovina,2012-2014,<0.1
+80,Bosnia and Herzegovina,2013-2015,<0.1
+80,Bosnia and Herzegovina,2014-2016,<0.1
+80,Bosnia and Herzegovina,2015-2017,<0.1
+20,Botswana,2011-2013,0.5
+20,Botswana,2012-2014,0.5
+20,Botswana,2013-2015,0.6
+20,Botswana,2014-2016,0.6
+20,Botswana,2015-2017,0.6
+21,Brazil,2011-2013,<5
+21,Brazil,2012-2014,<5.1
+21,Brazil,2013-2015,<5.1
+21,Brazil,2014-2016,<5.1
+21,Brazil,2015-2017,<5.2
+26,Brunei Darussalam,2011-2013,<0.1
+26,Brunei Darussalam,2012-2014,<0.1
+26,Brunei Darussalam,2013-2015,<0.1
+26,Brunei Darussalam,2014-2016,<0.1
+26,Brunei Darussalam,2015-2017,<0.1
+27,Bulgaria,2011-2013,0.4
+27,Bulgaria,2012-2014,0.3
+27,Bulgaria,2013-2015,0.3
+27,Bulgaria,2014-2016,0.2
+27,Bulgaria,2015-2017,0.2
+233,Burkina Faso,2011-2013,3.4
+233,Burkina Faso,2012-2014,3.5
+233,Burkina Faso,2013-2015,3.6
+233,Burkina Faso,2014-2016,3.8
+233,Burkina Faso,2015-2017,4
+29,Burundi,2011-2013,
+29,Burundi,2012-2014,
+29,Burundi,2013-2015,
+29,Burundi,2014-2016,
+29,Burundi,2015-2017,
+35,Cabo Verde,2011-2013,<0.1
+35,Cabo Verde,2012-2014,<0.1
+35,Cabo Verde,2013-2015,<0.1
+35,Cabo Verde,2014-2016,<0.1
+35,Cabo Verde,2015-2017,<0.1
+115,Cambodia,2011-2013,2.8
+115,Cambodia,2012-2014,2.8
+115,Cambodia,2013-2015,2.9
+115,Cambodia,2014-2016,2.9
+115,Cambodia,2015-2017,2.9
+32,Cameroon,2011-2013,1.8
+32,Cameroon,2012-2014,1.6
+32,Cameroon,2013-2015,1.4
+32,Cameroon,2014-2016,1.5
+32,Cameroon,2015-2017,1.7
+33,Canada,2011-2013,<0.9
+33,Canada,2012-2014,<0.9
+33,Canada,2013-2015,<0.9
+33,Canada,2014-2016,<0.9
+33,Canada,2015-2017,<0.9
+37,Central African Republic,2011-2013,1.7
+37,Central African Republic,2012-2014,2.1
+37,Central African Republic,2013-2015,2.5
+37,Central African Republic,2014-2016,2.7
+37,Central African Republic,2015-2017,2.8
+39,Chad,2011-2013,4.8
+39,Chad,2012-2014,4.9
+39,Chad,2013-2015,5
+39,Chad,2014-2016,5.4
+39,Chad,2015-2017,5.7
+40,Chile,2011-2013,0.7
+40,Chile,2012-2014,0.6
+40,Chile,2013-2015,0.6
+40,Chile,2014-2016,0.6
+40,Chile,2015-2017,0.6
+351,China,2011-2013,146.2
+351,China,2012-2014,137.3
+351,China,2013-2015,129.7
+351,China,2014-2016,125.6
+351,China,2015-2017,124.5
+96,"China, Hong Kong SAR",2011-2013,<0.2
+96,"China, Hong Kong SAR",2012-2014,<0.2
+96,"China, Hong Kong SAR",2013-2015,<0.2
+96,"China, Hong Kong SAR",2014-2016,<0.2
+96,"China, Hong Kong SAR",2015-2017,<0.2
+128,"China, Macao SAR",2011-2013,<0.1
+128,"China, Macao SAR",2012-2014,<0.1
+128,"China, Macao SAR",2013-2015,<0.1
+128,"China, Macao SAR",2014-2016,<0.1
+128,"China, Macao SAR",2015-2017,<0.1
+214,"China, Taiwan Province of",2011-2013,1
+214,"China, Taiwan Province of",2012-2014,1
+214,"China, Taiwan Province of",2013-2015,0.9
+214,"China, Taiwan Province of",2014-2016,0.8
+214,"China, Taiwan Province of",2015-2017,0.8
+44,Colombia,2011-2013,4.7
+44,Colombia,2012-2014,4.2
+44,Colombia,2013-2015,3.8
+44,Colombia,2014-2016,3.4
+44,Colombia,2015-2017,3.2
+45,Comoros,2011-2013,
+45,Comoros,2012-2014,
+45,Comoros,2013-2015,
+45,Comoros,2014-2016,
+45,Comoros,2015-2017,
+46,Congo,2011-2013,1.8
+46,Congo,2012-2014,1.8
+46,Congo,2013-2015,1.9
+46,Congo,2014-2016,1.9
+46,Congo,2015-2017,1.9
+47,Cook Islands,2011-2013,
+47,Cook Islands,2012-2014,
+47,Cook Islands,2013-2015,
+47,Cook Islands,2014-2016,
+47,Cook Islands,2015-2017,
+48,Costa Rica,2011-2013,0.2
+48,Costa Rica,2012-2014,0.3
+48,Costa Rica,2013-2015,0.3
+48,Costa Rica,2014-2016,0.2
+48,Costa Rica,2015-2017,0.2
+107,Côte d'Ivoire,2011-2013,4.6
+107,Côte d'Ivoire,2012-2014,4.7
+107,Côte d'Ivoire,2013-2015,4.8
+107,Côte d'Ivoire,2014-2016,4.9
+107,Côte d'Ivoire,2015-2017,4.9
+98,Croatia,2011-2013,<0.1
+98,Croatia,2012-2014,<0.1
+98,Croatia,2013-2015,<0.1
+98,Croatia,2014-2016,<0.1
+98,Croatia,2015-2017,<0.1
+49,Cuba,2011-2013,<0.3
+49,Cuba,2012-2014,<0.3
+49,Cuba,2013-2015,<0.3
+49,Cuba,2014-2016,<0.3
+49,Cuba,2015-2017,<0.3
+50,Cyprus,2011-2013,<0.1
+50,Cyprus,2012-2014,<0.1
+50,Cyprus,2013-2015,<0.1
+50,Cyprus,2014-2016,<0.1
+50,Cyprus,2015-2017,<0.1
+167,Czechia,2011-2013,<0.3
+167,Czechia,2012-2014,<0.3
+167,Czechia,2013-2015,<0.3
+167,Czechia,2014-2016,<0.3
+167,Czechia,2015-2017,<0.3
+116,Democratic People's Republic of Korea,2011-2013,10.4
+116,Democratic People's Republic of Korea,2012-2014,10.4
+116,Democratic People's Republic of Korea,2013-2015,10.6
+116,Democratic People's Republic of Korea,2014-2016,10.8
+116,Democratic People's Republic of Korea,2015-2017,11
+250,Democratic Republic of the Congo,2011-2013,
+250,Democratic Republic of the Congo,2012-2014,
+250,Democratic Republic of the Congo,2013-2015,
+250,Democratic Republic of the Congo,2014-2016,
+250,Democratic Republic of the Congo,2015-2017,
+54,Denmark,2011-2013,<0.1
+54,Denmark,2012-2014,<0.1
+54,Denmark,2013-2015,<0.1
+54,Denmark,2014-2016,<0.1
+54,Denmark,2015-2017,<0.1
+72,Djibouti,2011-2013,0.2
+72,Djibouti,2012-2014,0.2
+72,Djibouti,2013-2015,0.2
+72,Djibouti,2014-2016,0.2
+72,Djibouti,2015-2017,0.2
+55,Dominica,2011-2013,<0.1
+55,Dominica,2012-2014,<0.1
+55,Dominica,2013-2015,<0.1
+55,Dominica,2014-2016,<0.1
+55,Dominica,2015-2017,<0.1
+56,Dominican Republic,2011-2013,1.4
+56,Dominican Republic,2012-2014,1.3
+56,Dominican Republic,2013-2015,1.2
+56,Dominican Republic,2014-2016,1.2
+56,Dominican Republic,2015-2017,1.1
+58,Ecuador,2011-2013,1.3
+58,Ecuador,2012-2014,1.3
+58,Ecuador,2013-2015,1.3
+58,Ecuador,2014-2016,1.3
+58,Ecuador,2015-2017,1.3
+59,Egypt,2011-2013,3.9
+59,Egypt,2012-2014,3.9
+59,Egypt,2013-2015,4
+59,Egypt,2014-2016,4.3
+59,Egypt,2015-2017,4.6
+60,El Salvador,2011-2013,0.8
+60,El Salvador,2012-2014,0.7
+60,El Salvador,2013-2015,0.7
+60,El Salvador,2014-2016,0.7
+60,El Salvador,2015-2017,0.7
+61,Equatorial Guinea,2011-2013,
+61,Equatorial Guinea,2012-2014,
+61,Equatorial Guinea,2013-2015,
+61,Equatorial Guinea,2014-2016,
+61,Equatorial Guinea,2015-2017,
+178,Eritrea,2011-2013,
+178,Eritrea,2012-2014,
+178,Eritrea,2013-2015,
+178,Eritrea,2014-2016,
+178,Eritrea,2015-2017,
+63,Estonia,2011-2013,<0.1
+63,Estonia,2012-2014,<0.1
+63,Estonia,2013-2015,<0.1
+63,Estonia,2014-2016,<0.1
+63,Estonia,2015-2017,<0.1
+209,Eswatini,2011-2013,0.3
+209,Eswatini,2012-2014,0.3
+209,Eswatini,2013-2015,0.3
+209,Eswatini,2014-2016,0.3
+209,Eswatini,2015-2017,0.3
+238,Ethiopia,2011-2013,26.8
+238,Ethiopia,2012-2014,25.5
+238,Ethiopia,2013-2015,24
+238,Ethiopia,2014-2016,22.8
+238,Ethiopia,2015-2017,21.9
+66,Fiji,2011-2013,<0.1
+66,Fiji,2012-2014,<0.1
+66,Fiji,2013-2015,<0.1
+66,Fiji,2014-2016,<0.1
+66,Fiji,2015-2017,<0.1
+67,Finland,2011-2013,<0.1
+67,Finland,2012-2014,<0.1
+67,Finland,2013-2015,<0.1
+67,Finland,2014-2016,<0.1
+67,Finland,2015-2017,<0.1
+68,France,2011-2013,<1.6
+68,France,2012-2014,<1.6
+68,France,2013-2015,<1.6
+68,France,2014-2016,<1.6
+68,France,2015-2017,<1.6
+70,French Polynesia,2011-2013,<0.1
+70,French Polynesia,2012-2014,<0.1
+70,French Polynesia,2013-2015,<0.1
+70,French Polynesia,2014-2016,<0.1
+70,French Polynesia,2015-2017,<0.1
+74,Gabon,2011-2013,0.2
+74,Gabon,2012-2014,0.2
+74,Gabon,2013-2015,0.2
+74,Gabon,2014-2016,0.2
+74,Gabon,2015-2017,0.2
+75,Gambia,2011-2013,0.2
+75,Gambia,2012-2014,0.2
+75,Gambia,2013-2015,0.2
+75,Gambia,2014-2016,0.2
+75,Gambia,2015-2017,0.2
+73,Georgia,2011-2013,0.3
+73,Georgia,2012-2014,0.3
+73,Georgia,2013-2015,0.3
+73,Georgia,2014-2016,0.3
+73,Georgia,2015-2017,0.3
+79,Germany,2011-2013,<2
+79,Germany,2012-2014,<2
+79,Germany,2013-2015,<2
+79,Germany,2014-2016,<2
+79,Germany,2015-2017,<2
+81,Ghana,2011-2013,1.5
+81,Ghana,2012-2014,1.7
+81,Ghana,2013-2015,1.7
+81,Ghana,2014-2016,1.7
+81,Ghana,2015-2017,1.7
+84,Greece,2011-2013,<0.3
+84,Greece,2012-2014,<0.3
+84,Greece,2013-2015,<0.3
+84,Greece,2014-2016,<0.3
+84,Greece,2015-2017,<0.3
+85,Greenland,2011-2013,
+85,Greenland,2012-2014,
+85,Greenland,2013-2015,
+85,Greenland,2014-2016,
+85,Greenland,2015-2017,
+86,Grenada,2011-2013,
+86,Grenada,2012-2014,
+86,Grenada,2013-2015,
+86,Grenada,2014-2016,
+86,Grenada,2015-2017,
+89,Guatemala,2011-2013,2.5
+89,Guatemala,2012-2014,2.6
+89,Guatemala,2013-2015,2.6
+89,Guatemala,2014-2016,2.6
+89,Guatemala,2015-2017,2.6
+90,Guinea,2011-2013,1.9
+90,Guinea,2012-2014,1.9
+90,Guinea,2013-2015,2
+90,Guinea,2014-2016,2.2
+90,Guinea,2015-2017,2.4
+175,Guinea-Bissau,2011-2013,0.4
+175,Guinea-Bissau,2012-2014,0.4
+175,Guinea-Bissau,2013-2015,0.4
+175,Guinea-Bissau,2014-2016,0.5
+175,Guinea-Bissau,2015-2017,0.5
+91,Guyana,2011-2013,<0.1
+91,Guyana,2012-2014,<0.1
+91,Guyana,2013-2015,<0.1
+91,Guyana,2014-2016,<0.1
+91,Guyana,2015-2017,<0.1
+93,Haiti,2011-2013,5.1
+93,Haiti,2012-2014,5.2
+93,Haiti,2013-2015,5.2
+93,Haiti,2014-2016,5.1
+93,Haiti,2015-2017,5
+95,Honduras,2011-2013,1.3
+95,Honduras,2012-2014,1.3
+95,Honduras,2013-2015,1.4
+95,Honduras,2014-2016,1.4
+95,Honduras,2015-2017,1.4
+97,Hungary,2011-2013,<0.2
+97,Hungary,2012-2014,<0.2
+97,Hungary,2013-2015,<0.2
+97,Hungary,2014-2016,<0.2
+97,Hungary,2015-2017,<0.2
+99,Iceland,2011-2013,<0.1
+99,Iceland,2012-2014,<0.1
+99,Iceland,2013-2015,<0.1
+99,Iceland,2014-2016,<0.1
+99,Iceland,2015-2017,<0.1
+100,India,2011-2013,217.5
+100,India,2012-2014,213.1
+100,India,2013-2015,206.5
+100,India,2014-2016,199.8
+100,India,2015-2017,195.9
+101,Indonesia,2011-2013,21.3
+101,Indonesia,2012-2014,19.1
+101,Indonesia,2013-2015,17.7
+101,Indonesia,2014-2016,18.8
+101,Indonesia,2015-2017,20.2
+102,Iran (Islamic Republic of),2011-2013,4.3
+102,Iran (Islamic Republic of),2012-2014,4.2
+102,Iran (Islamic Republic of),2013-2015,4.1
+102,Iran (Islamic Republic of),2014-2016,4
+102,Iran (Islamic Republic of),2015-2017,4
+103,Iraq,2011-2013,8.8
+103,Iraq,2012-2014,9.3
+103,Iraq,2013-2015,9.7
+103,Iraq,2014-2016,10.1
+103,Iraq,2015-2017,10.3
+104,Ireland,2011-2013,<0.1
+104,Ireland,2012-2014,<0.1
+104,Ireland,2013-2015,<0.1
+104,Ireland,2014-2016,<0.1
+104,Ireland,2015-2017,<0.1
+105,Israel,2011-2013,<0.2
+105,Israel,2012-2014,<0.2
+105,Israel,2013-2015,<0.2
+105,Israel,2014-2016,<0.2
+105,Israel,2015-2017,<0.2
+106,Italy,2011-2013,<1.5
+106,Italy,2012-2014,<1.5
+106,Italy,2013-2015,<1.5
+106,Italy,2014-2016,<1.5
+106,Italy,2015-2017,<1.5
+109,Jamaica,2011-2013,0.3
+109,Jamaica,2012-2014,0.3
+109,Jamaica,2013-2015,0.3
+109,Jamaica,2014-2016,0.3
+109,Jamaica,2015-2017,0.3
+110,Japan,2011-2013,<3.2
+110,Japan,2012-2014,<3.2
+110,Japan,2013-2015,<3.2
+110,Japan,2014-2016,<3.2
+110,Japan,2015-2017,<3.2
+112,Jordan,2011-2013,0.8
+112,Jordan,2012-2014,0.9
+112,Jordan,2013-2015,1.1
+112,Jordan,2014-2016,1.2
+112,Jordan,2015-2017,1.3
+108,Kazakhstan,2011-2013,<0.4
+108,Kazakhstan,2012-2014,<0.4
+108,Kazakhstan,2013-2015,<0.4
+108,Kazakhstan,2014-2016,<0.4
+108,Kazakhstan,2015-2017,<0.4
+114,Kenya,2011-2013,9.4
+114,Kenya,2012-2014,9.3
+114,Kenya,2013-2015,9.6
+114,Kenya,2014-2016,10.6
+114,Kenya,2015-2017,11.7
+83,Kiribati,2011-2013,<0.1
+83,Kiribati,2012-2014,<0.1
+83,Kiribati,2013-2015,<0.1
+83,Kiribati,2014-2016,<0.1
+83,Kiribati,2015-2017,<0.1
+118,Kuwait,2011-2013,<0.1
+118,Kuwait,2012-2014,<0.1
+118,Kuwait,2013-2015,<0.1
+118,Kuwait,2014-2016,<0.1
+118,Kuwait,2015-2017,<0.1
+113,Kyrgyzstan,2011-2013,0.4
+113,Kyrgyzstan,2012-2014,0.4
+113,Kyrgyzstan,2013-2015,0.4
+113,Kyrgyzstan,2014-2016,0.4
+113,Kyrgyzstan,2015-2017,0.4
+120,Lao People's Democratic Republic,2011-2013,1.2
+120,Lao People's Democratic Republic,2012-2014,1.2
+120,Lao People's Democratic Republic,2013-2015,1.1
+120,Lao People's Democratic Republic,2014-2016,1.1
+120,Lao People's Democratic Republic,2015-2017,1.1
+119,Latvia,2011-2013,<0.1
+119,Latvia,2012-2014,<0.1
+119,Latvia,2013-2015,<0.1
+119,Latvia,2014-2016,<0.1
+119,Latvia,2015-2017,<0.1
+121,Lebanon,2011-2013,0.4
+121,Lebanon,2012-2014,0.5
+121,Lebanon,2013-2015,0.6
+121,Lebanon,2014-2016,0.6
+121,Lebanon,2015-2017,0.7
+122,Lesotho,2011-2013,0.3
+122,Lesotho,2012-2014,0.3
+122,Lesotho,2013-2015,0.3
+122,Lesotho,2014-2016,0.3
+122,Lesotho,2015-2017,0.3
+123,Liberia,2011-2013,1.6
+123,Liberia,2012-2014,1.6
+123,Liberia,2013-2015,1.7
+123,Liberia,2014-2016,1.7
+123,Liberia,2015-2017,1.8
+124,Libya,2011-2013,
+124,Libya,2012-2014,
+124,Libya,2013-2015,
+124,Libya,2014-2016,
+124,Libya,2015-2017,
+126,Lithuania,2011-2013,<0.1
+126,Lithuania,2012-2014,<0.1
+126,Lithuania,2013-2015,<0.1
+126,Lithuania,2014-2016,<0.1
+126,Lithuania,2015-2017,<0.1
+256,Luxembourg,2011-2013,<0.1
+256,Luxembourg,2012-2014,<0.1
+256,Luxembourg,2013-2015,<0.1
+256,Luxembourg,2014-2016,<0.1
+256,Luxembourg,2015-2017,<0.1
+129,Madagascar,2011-2013,7.4
+129,Madagascar,2012-2014,8.2
+129,Madagascar,2013-2015,9.1
+129,Madagascar,2014-2016,10
+129,Madagascar,2015-2017,10.7
+130,Malawi,2011-2013,3.5
+130,Malawi,2012-2014,3.7
+130,Malawi,2013-2015,4
+130,Malawi,2014-2016,4.3
+130,Malawi,2015-2017,4.8
+131,Malaysia,2011-2013,1
+131,Malaysia,2012-2014,1
+131,Malaysia,2013-2015,0.9
+131,Malaysia,2014-2016,0.9
+131,Malaysia,2015-2017,0.9
+132,Maldives,2011-2013,<0.1
+132,Maldives,2012-2014,<0.1
+132,Maldives,2013-2015,<0.1
+132,Maldives,2014-2016,<0.1
+132,Maldives,2015-2017,<0.1
+133,Mali,2011-2013,1
+133,Mali,2012-2014,1
+133,Mali,2013-2015,1
+133,Mali,2014-2016,1
+133,Mali,2015-2017,1.1
+134,Malta,2011-2013,<0.1
+134,Malta,2012-2014,<0.1
+134,Malta,2013-2015,<0.1
+134,Malta,2014-2016,<0.1
+134,Malta,2015-2017,<0.1
+127,Marshall Islands,2011-2013,
+127,Marshall Islands,2012-2014,
+127,Marshall Islands,2013-2015,
+127,Marshall Islands,2014-2016,
+127,Marshall Islands,2015-2017,
+136,Mauritania,2011-2013,0.3
+136,Mauritania,2012-2014,0.3
+136,Mauritania,2013-2015,0.3
+136,Mauritania,2014-2016,0.4
+136,Mauritania,2015-2017,0.5
+137,Mauritius,2011-2013,<0.1
+137,Mauritius,2012-2014,<0.1
+137,Mauritius,2013-2015,<0.1
+137,Mauritius,2014-2016,<0.1
+137,Mauritius,2015-2017,<0.1
+138,Mexico,2011-2013,5.5
+138,Mexico,2012-2014,5.4
+138,Mexico,2013-2015,5.2
+138,Mexico,2014-2016,5
+138,Mexico,2015-2017,4.8
+145,Micronesia (Federated States of),2011-2013,
+145,Micronesia (Federated States of),2012-2014,
+145,Micronesia (Federated States of),2013-2015,
+145,Micronesia (Federated States of),2014-2016,
+145,Micronesia (Federated States of),2015-2017,
+141,Mongolia,2011-2013,0.5
+141,Mongolia,2012-2014,0.5
+141,Mongolia,2013-2015,0.5
+141,Mongolia,2014-2016,0.5
+141,Mongolia,2015-2017,0.6
+273,Montenegro,2011-2013,<0.1
+273,Montenegro,2012-2014,<0.1
+273,Montenegro,2013-2015,<0.1
+273,Montenegro,2014-2016,<0.1
+273,Montenegro,2015-2017,<0.1
+143,Morocco,2011-2013,1.5
+143,Morocco,2012-2014,1.4
+143,Morocco,2013-2015,1.4
+143,Morocco,2014-2016,1.3
+143,Morocco,2015-2017,1.4
+144,Mozambique,2011-2013,7.3
+144,Mozambique,2012-2014,7.7
+144,Mozambique,2013-2015,8.1
+144,Mozambique,2014-2016,8.5
+144,Mozambique,2015-2017,8.8
+28,Myanmar,2011-2013,7.1
+28,Myanmar,2012-2014,6.5
+28,Myanmar,2013-2015,6
+28,Myanmar,2014-2016,5.7
+28,Myanmar,2015-2017,5.6
+147,Namibia,2011-2013,0.8
+147,Namibia,2012-2014,0.7
+147,Namibia,2013-2015,0.7
+147,Namibia,2014-2016,0.6
+147,Namibia,2015-2017,0.6
+148,Nauru,2011-2013,
+148,Nauru,2012-2014,
+148,Nauru,2013-2015,
+148,Nauru,2014-2016,
+148,Nauru,2015-2017,
+149,Nepal,2011-2013,2.5
+149,Nepal,2012-2014,2.6
+149,Nepal,2013-2015,2.7
+149,Nepal,2014-2016,2.7
+149,Nepal,2015-2017,2.8
+150,Netherlands,2011-2013,<0.4
+150,Netherlands,2012-2014,<0.4
+150,Netherlands,2013-2015,<0.4
+150,Netherlands,2014-2016,<0.4
+150,Netherlands,2015-2017,<0.4
+153,New Caledonia,2011-2013,<0.1
+153,New Caledonia,2012-2014,<0.1
+153,New Caledonia,2013-2015,<0.1
+153,New Caledonia,2014-2016,<0.1
+153,New Caledonia,2015-2017,<0.1
+156,New Zealand,2011-2013,<0.1
+156,New Zealand,2012-2014,<0.1
+156,New Zealand,2013-2015,<0.1
+156,New Zealand,2014-2016,<0.1
+156,New Zealand,2015-2017,<0.1
+157,Nicaragua,2011-2013,1.1
+157,Nicaragua,2012-2014,1.1
+157,Nicaragua,2013-2015,1
+157,Nicaragua,2014-2016,1
+157,Nicaragua,2015-2017,1
+158,Niger,2011-2013,1.9
+158,Niger,2012-2014,1.9
+158,Niger,2013-2015,2
+158,Niger,2014-2016,2.4
+158,Niger,2015-2017,3
+159,Nigeria,2011-2013,11.2
+159,Nigeria,2012-2014,12.2
+159,Nigeria,2013-2015,13.8
+159,Nigeria,2014-2016,16.4
+159,Nigeria,2015-2017,21.5
+160,Niue,2011-2013,
+160,Niue,2012-2014,
+160,Niue,2013-2015,
+160,Niue,2014-2016,
+160,Niue,2015-2017,
+162,Norway,2011-2013,<0.1
+162,Norway,2012-2014,<0.1
+162,Norway,2013-2015,<0.1
+162,Norway,2014-2016,<0.1
+162,Norway,2015-2017,<0.1
+299,Palestine,2011-2013,
+299,Palestine,2012-2014,
+299,Palestine,2013-2015,
+299,Palestine,2014-2016,
+299,Palestine,2015-2017,
+221,Oman,2011-2013,0.2
+221,Oman,2012-2014,0.2
+221,Oman,2013-2015,0.2
+221,Oman,2014-2016,0.2
+221,Oman,2015-2017,0.2
+165,Pakistan,2011-2013,37.4
+165,Pakistan,2012-2014,38.4
+165,Pakistan,2013-2015,39.3
+165,Pakistan,2014-2016,39.5
+165,Pakistan,2015-2017,39.5
+180,Palau,2011-2013,
+180,Palau,2012-2014,
+180,Palau,2013-2015,
+180,Palau,2014-2016,
+180,Palau,2015-2017,
+166,Panama,2011-2013,0.4
+166,Panama,2012-2014,0.4
+166,Panama,2013-2015,0.4
+166,Panama,2014-2016,0.4
+166,Panama,2015-2017,0.4
+168,Papua New Guinea,2011-2013,
+168,Papua New Guinea,2012-2014,
+168,Papua New Guinea,2013-2015,
+168,Papua New Guinea,2014-2016,
+168,Papua New Guinea,2015-2017,
+169,Paraguay,2011-2013,0.8
+169,Paraguay,2012-2014,0.8
+169,Paraguay,2013-2015,0.8
+169,Paraguay,2014-2016,0.8
+169,Paraguay,2015-2017,0.8
+170,Peru,2011-2013,2.9
+170,Peru,2012-2014,2.8
+170,Peru,2013-2015,2.9
+170,Peru,2014-2016,2.8
+170,Peru,2015-2017,2.8
+171,Philippines,2011-2013,13.7
+171,Philippines,2012-2014,14
+171,Philippines,2013-2015,14.2
+171,Philippines,2014-2016,14.2
+171,Philippines,2015-2017,14.2
+173,Poland,2011-2013,<1
+173,Poland,2012-2014,<1
+173,Poland,2013-2015,<1
+173,Poland,2014-2016,<1
+173,Poland,2015-2017,<1
+174,Portugal,2011-2013,<0.3
+174,Portugal,2012-2014,<0.3
+174,Portugal,2013-2015,<0.3
+174,Portugal,2014-2016,<0.3
+174,Portugal,2015-2017,<0.3
+177,Puerto Rico,2011-2013,
+177,Puerto Rico,2012-2014,
+177,Puerto Rico,2013-2015,
+177,Puerto Rico,2014-2016,
+177,Puerto Rico,2015-2017,
+179,Qatar,2011-2013,
+179,Qatar,2012-2014,
+179,Qatar,2013-2015,
+179,Qatar,2014-2016,
+179,Qatar,2015-2017,
+117,Republic of Korea,2011-2013,<1.2
+117,Republic of Korea,2012-2014,<1.3
+117,Republic of Korea,2013-2015,<1.3
+117,Republic of Korea,2014-2016,<1.3
+117,Republic of Korea,2015-2017,<1.3
+146,Republic of Moldova,2011-2013,
+146,Republic of Moldova,2012-2014,
+146,Republic of Moldova,2013-2015,
+146,Republic of Moldova,2014-2016,
+146,Republic of Moldova,2015-2017,
+183,Romania,2011-2013,<0.5
+183,Romania,2012-2014,<0.5
+183,Romania,2013-2015,<0.5
+183,Romania,2014-2016,<0.5
+183,Romania,2015-2017,<0.5
+185,Russian Federation,2011-2013,<3.6
+185,Russian Federation,2012-2014,<3.6
+185,Russian Federation,2013-2015,<3.6
+185,Russian Federation,2014-2016,<3.6
+185,Russian Federation,2015-2017,<3.6
+184,Rwanda,2011-2013,3.5
+184,Rwanda,2012-2014,3.5
+184,Rwanda,2013-2015,3.6
+184,Rwanda,2014-2016,4
+184,Rwanda,2015-2017,4.3
+188,Saint Kitts and Nevis,2011-2013,
+188,Saint Kitts and Nevis,2012-2014,
+188,Saint Kitts and Nevis,2013-2015,
+188,Saint Kitts and Nevis,2014-2016,
+188,Saint Kitts and Nevis,2015-2017,
+189,Saint Lucia,2011-2013,
+189,Saint Lucia,2012-2014,
+189,Saint Lucia,2013-2015,
+189,Saint Lucia,2014-2016,
+189,Saint Lucia,2015-2017,
+191,Saint Vincent and the Grenadines,2011-2013,<0.1
+191,Saint Vincent and the Grenadines,2012-2014,<0.1
+191,Saint Vincent and the Grenadines,2013-2015,<0.1
+191,Saint Vincent and the Grenadines,2014-2016,<0.1
+191,Saint Vincent and the Grenadines,2015-2017,<0.1
+244,Samoa,2011-2013,<0.1
+244,Samoa,2012-2014,<0.1
+244,Samoa,2013-2015,<0.1
+244,Samoa,2014-2016,<0.1
+244,Samoa,2015-2017,<0.1
+193,Sao Tome and Principe,2011-2013,<0.1
+193,Sao Tome and Principe,2012-2014,<0.1
+193,Sao Tome and Principe,2013-2015,<0.1
+193,Sao Tome and Principe,2014-2016,<0.1
+193,Sao Tome and Principe,2015-2017,<0.1
+194,Saudi Arabia,2011-2013,1.7
+194,Saudi Arabia,2012-2014,1.6
+194,Saudi Arabia,2013-2015,1.7
+194,Saudi Arabia,2014-2016,1.7
+194,Saudi Arabia,2015-2017,1.8
+195,Senegal,2011-2013,1.7
+195,Senegal,2012-2014,1.8
+195,Senegal,2013-2015,1.8
+195,Senegal,2014-2016,1.8
+195,Senegal,2015-2017,1.7
+272,Serbia,2011-2013,0.5
+272,Serbia,2012-2014,0.5
+272,Serbia,2013-2015,0.5
+272,Serbia,2014-2016,0.5
+272,Serbia,2015-2017,0.5
+196,Seychelles,2011-2013,
+196,Seychelles,2012-2014,
+196,Seychelles,2013-2015,
+196,Seychelles,2014-2016,
+196,Seychelles,2015-2017,
+197,Sierra Leone,2011-2013,1.7
+197,Sierra Leone,2012-2014,1.7
+197,Sierra Leone,2013-2015,1.8
+197,Sierra Leone,2014-2016,1.9
+197,Sierra Leone,2015-2017,1.9
+200,Singapore,2011-2013,
+200,Singapore,2012-2014,
+200,Singapore,2013-2015,
+200,Singapore,2014-2016,
+200,Singapore,2015-2017,
+199,Slovakia,2011-2013,0.2
+199,Slovakia,2012-2014,0.2
+199,Slovakia,2013-2015,0.2
+199,Slovakia,2014-2016,0.2
+199,Slovakia,2015-2017,0.1
+198,Slovenia,2011-2013,<0.1
+198,Slovenia,2012-2014,<0.1
+198,Slovenia,2013-2015,<0.1
+198,Slovenia,2014-2016,<0.1
+198,Slovenia,2015-2017,<0.1
+25,Solomon Islands,2011-2013,<0.1
+25,Solomon Islands,2012-2014,<0.1
+25,Solomon Islands,2013-2015,<0.1
+25,Solomon Islands,2014-2016,<0.1
+25,Solomon Islands,2015-2017,<0.1
+201,Somalia,2011-2013,
+201,Somalia,2012-2014,
+201,Somalia,2013-2015,
+201,Somalia,2014-2016,
+201,Somalia,2015-2017,
+202,South Africa,2011-2013,2.4
+202,South Africa,2012-2014,2.6
+202,South Africa,2013-2015,2.9
+202,South Africa,2014-2016,3.2
+202,South Africa,2015-2017,3.4
+277,South Sudan,2011-2013,
+277,South Sudan,2012-2014,
+277,South Sudan,2013-2015,
+277,South Sudan,2014-2016,
+277,South Sudan,2015-2017,
+203,Spain,2011-2013,<1.2
+203,Spain,2012-2014,<1.2
+203,Spain,2013-2015,<1.2
+203,Spain,2014-2016,<1.2
+203,Spain,2015-2017,<1.2
+38,Sri Lanka,2011-2013,2.5
+38,Sri Lanka,2012-2014,2.4
+38,Sri Lanka,2013-2015,2.3
+38,Sri Lanka,2014-2016,2.2
+38,Sri Lanka,2015-2017,2.3
+276,Sudan,2011-2013,9.2
+276,Sudan,2012-2014,9.3
+276,Sudan,2013-2015,9.5
+276,Sudan,2014-2016,9.7
+276,Sudan,2015-2017,10
+207,Suriname,2011-2013,<0.1
+207,Suriname,2012-2014,<0.1
+207,Suriname,2013-2015,<0.1
+207,Suriname,2014-2016,<0.1
+207,Suriname,2015-2017,<0.1
+210,Sweden,2011-2013,<0.2
+210,Sweden,2012-2014,<0.2
+210,Sweden,2013-2015,<0.2
+210,Sweden,2014-2016,<0.2
+210,Sweden,2015-2017,<0.2
+211,Switzerland,2011-2013,<0.2
+211,Switzerland,2012-2014,<0.2
+211,Switzerland,2013-2015,<0.2
+211,Switzerland,2014-2016,<0.2
+211,Switzerland,2015-2017,<0.2
+212,Syrian Arab Republic,2011-2013,
+212,Syrian Arab Republic,2012-2014,
+212,Syrian Arab Republic,2013-2015,
+212,Syrian Arab Republic,2014-2016,
+212,Syrian Arab Republic,2015-2017,
+208,Tajikistan,2011-2013,
+208,Tajikistan,2012-2014,
+208,Tajikistan,2013-2015,
+208,Tajikistan,2014-2016,
+208,Tajikistan,2015-2017,
+216,Thailand,2011-2013,5.9
+216,Thailand,2012-2014,6.1
+216,Thailand,2013-2015,6.3
+216,Thailand,2014-2016,6.3
+216,Thailand,2015-2017,6.2
+154,North Macedonia,2011-2013,<0.1
+154,North Macedonia,2012-2014,<0.1
+154,North Macedonia,2013-2015,<0.1
+154,North Macedonia,2014-2016,<0.1
+154,North Macedonia,2015-2017,<0.1
+176,Timor-Leste,2011-2013,0.3
+176,Timor-Leste,2012-2014,0.3
+176,Timor-Leste,2013-2015,0.3
+176,Timor-Leste,2014-2016,0.3
+176,Timor-Leste,2015-2017,0.3
+217,Togo,2011-2013,1.3
+217,Togo,2012-2014,1.3
+217,Togo,2013-2015,1.2
+217,Togo,2014-2016,1.2
+217,Togo,2015-2017,1.2
+218,Tokelau,2011-2013,
+218,Tokelau,2012-2014,
+218,Tokelau,2013-2015,
+218,Tokelau,2014-2016,
+218,Tokelau,2015-2017,
+219,Tonga,2011-2013,
+219,Tonga,2012-2014,
+219,Tonga,2013-2015,
+219,Tonga,2014-2016,
+219,Tonga,2015-2017,
+220,Trinidad and Tobago,2011-2013,0.1
+220,Trinidad and Tobago,2012-2014,<0.1
+220,Trinidad and Tobago,2013-2015,<0.1
+220,Trinidad and Tobago,2014-2016,<0.1
+220,Trinidad and Tobago,2015-2017,<0.1
+222,Tunisia,2011-2013,0.5
+222,Tunisia,2012-2014,0.5
+222,Tunisia,2013-2015,0.5
+222,Tunisia,2014-2016,0.5
+222,Tunisia,2015-2017,0.6
+223,Turkey,2011-2013,<1.9
+223,Turkey,2012-2014,<1.9
+223,Turkey,2013-2015,<1.9
+223,Turkey,2014-2016,<2
+223,Turkey,2015-2017,<2
+213,Turkmenistan,2011-2013,0.3
+213,Turkmenistan,2012-2014,0.3
+213,Turkmenistan,2013-2015,0.3
+213,Turkmenistan,2014-2016,0.3
+213,Turkmenistan,2015-2017,0.3
+227,Tuvalu,2011-2013,
+227,Tuvalu,2012-2014,
+227,Tuvalu,2013-2015,
+227,Tuvalu,2014-2016,
+227,Tuvalu,2015-2017,
+226,Uganda,2011-2013,11.8
+226,Uganda,2012-2014,12.6
+226,Uganda,2013-2015,13.8
+226,Uganda,2014-2016,15.5
+226,Uganda,2015-2017,17.2
+230,Ukraine,2011-2013,<1.1
+230,Ukraine,2012-2014,<1.1
+230,Ukraine,2013-2015,<1.1
+230,Ukraine,2014-2016,1.3
+230,Ukraine,2015-2017,1.5
+225,United Arab Emirates,2011-2013,0.4
+225,United Arab Emirates,2012-2014,0.4
+225,United Arab Emirates,2013-2015,0.4
+225,United Arab Emirates,2014-2016,0.3
+225,United Arab Emirates,2015-2017,0.2
+229,United Kingdom,2011-2013,<1.6
+229,United Kingdom,2012-2014,<1.6
+229,United Kingdom,2013-2015,<1.6
+229,United Kingdom,2014-2016,<1.6
+229,United Kingdom,2015-2017,<1.6
+215,United Republic of Tanzania,2011-2013,16.2
+215,United Republic of Tanzania,2012-2014,16.5
+215,United Republic of Tanzania,2013-2015,16.8
+215,United Republic of Tanzania,2014-2016,17.3
+215,United Republic of Tanzania,2015-2017,17.8
+231,United States of America,2011-2013,<7.8
+231,United States of America,2012-2014,<7.9
+231,United States of America,2013-2015,<7.9
+231,United States of America,2014-2016,<8
+231,United States of America,2015-2017,<8.1
+234,Uruguay,2011-2013,<0.1
+234,Uruguay,2012-2014,<0.1
+234,Uruguay,2013-2015,<0.1
+234,Uruguay,2014-2016,<0.1
+234,Uruguay,2015-2017,<0.1
+235,Uzbekistan,2011-2013,2.3
+235,Uzbekistan,2012-2014,2.2
+235,Uzbekistan,2013-2015,2.2
+235,Uzbekistan,2014-2016,2.3
+235,Uzbekistan,2015-2017,2.3
+155,Vanuatu,2011-2013,<0.1
+155,Vanuatu,2012-2014,<0.1
+155,Vanuatu,2013-2015,<0.1
+155,Vanuatu,2014-2016,<0.1
+155,Vanuatu,2015-2017,<0.1
+236,Venezuela (Bolivarian Republic of),2011-2013,1.4
+236,Venezuela (Bolivarian Republic of),2012-2014,1.8
+236,Venezuela (Bolivarian Republic of),2013-2015,2.4
+236,Venezuela (Bolivarian Republic of),2014-2016,3.1
+236,Venezuela (Bolivarian Republic of),2015-2017,3.7
+237,Viet Nam,2011-2013,11.4
+237,Viet Nam,2012-2014,11.1
+237,Viet Nam,2013-2015,10.7
+237,Viet Nam,2014-2016,10.4
+237,Viet Nam,2015-2017,10.2
+249,Yemen,2011-2013,6.5
+249,Yemen,2012-2014,7.1
+249,Yemen,2013-2015,7.9
+249,Yemen,2014-2016,8.8
+249,Yemen,2015-2017,9.5
+251,Zambia,2011-2013,7
+251,Zambia,2012-2014,7
+251,Zambia,2013-2015,7
+251,Zambia,2014-2016,7.1
+251,Zambia,2015-2017,7.4
+181,Zimbabwe,2011-2013,6.2
+181,Zimbabwe,2012-2014,6.7
+181,Zimbabwe,2013-2015,7.2
+181,Zimbabwe,2014-2016,7.6
+181,Zimbabwe,2015-2017,7.5
