@@ -1,3 +1,4 @@
+- Les 10 pays ayant le plus haut ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
 # Réalisez une étude de santé publique
 Projet 3 du parcours de formation Openclassrooms Data Analyst
 
@@ -23,21 +24,116 @@ sqlite> .import sous_nutrition_export.csv sous_nutrition
 - Les 10 pays ayant le plus haut ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
 
 ```
-SELECT country, year, SUM(protein_supply_quantity_gcapitaday * 365 / 1000 / population * 1000) AS ratio
-FROM dispo_alim, population
-WHERE dispo_alim.country = population.country AND dispo_alim.year = population.year
-GROUP BY population.country
+SELECT country, year, SUM((protein_supply_quantity_gcapitaday / 1000) * 365) AS ratio
+FROM dispo_alim
+GROUP BY country
+ORDER BY ratio DESC
+LIMIT 10
+```
+Iceland
+
+China, Hong Kong SAR
+
+Israel
+
+Lithuania
+
+Maldives
+
+Finland
+
+Luxembourg
+
+Netherlands
+
+Albania
+
+France
+
+- Les 10 pays ayant le plus haut ratio disponibilité alimentaire/habitant en termes de Calories (kcal) par habitant :
+
+```
+SELECT country, year, SUM(food_supply_kcalcapitaday * 365) AS ratio
+FROM dispo_alim
+GROUP BY country
 ORDER BY ratio DESC
 LIMIT 10;
 ```
 
-Bermuda
-Saint Kitts and Nevis
-Dominica
-Antigua and Barbuda
-Saint Vincent and the Grenadines
-Kiribati
-Grenada
-Saint Lucia
-Samoa
-Iceland
+Austria
+
+Belgium
+
+Turkey
+
+United States of America
+
+Israel
+
+Ireland
+
+Italy
+
+Luxembourg
+
+Egypt
+
+Germany
+
+- Les 10 pays ayant le plus bas ratio disponibilité alimentaire/habitant en termes de Calories (kcal) par habitant :
+```
+SELECT country, year, SUM(food_supply_kcalcapitaday * 365) AS ratio
+FROM dispo_alim
+GROUP BY country
+ORDER BY ratio ASC
+LIMIT 10;
+```
+
+Zambia
+
+Central African Republic
+
+Madagascar
+
+Haiti
+
+Afghanistan
+
+Democratic People's Republic of Korea
+
+Chad
+
+Ethiopia
+
+Timor-Leste
+
+Uganda
+
+- Les 10 pays ayant le plus bas ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
+```
+SELECT country, year, SUM(protein_supply_quantity_gcapitaday * 365) AS ratio
+FROM dispo_alim
+GROUP BY country
+ORDER BY ratio ASC
+LIMIT 10;
+```
+
+Liberia
+
+Guinea-Bissau
+
+Mozambique
+
+Madagascar
+
+Haiti
+
+Central African Republic
+
+Zimbabwe
+
+Congo
+
+Sao Tome and Principe
+
+Uganda
