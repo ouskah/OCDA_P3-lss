@@ -1,349 +1,349 @@
-country_code,country,year,population
-1,Armenia,2012,2969
-1,Armenia,2013,2977
-2,Afghanistan,2012,29825
-2,Afghanistan,2013,30552
-3,Albania,2012,3162
-3,Albania,2013,3173
-4,Algeria,2012,38482
-4,Algeria,2013,39208
-7,Angola,2012,20821
-7,Angola,2013,21472
-8,Antigua and Barbuda,2012,89
-8,Antigua and Barbuda,2013,90
-9,Argentina,2012,41087
-9,Argentina,2013,41446
-10,Australia,2012,23050
-10,Australia,2013,23343
-11,Austria,2012,8464
-11,Austria,2013,8495
-12,Bahamas,2012,372
-12,Bahamas,2013,377
-14,Barbados,2012,283
-14,Barbados,2013,285
-16,Bangladesh,2012,154695
-16,Bangladesh,2013,156595
-17,Bermuda,2012,65
-17,Bermuda,2013,65
-19,Bolivia (Plurinational State of),2012,10496
-19,Bolivia (Plurinational State of),2013,10671
-20,Botswana,2012,2004
-20,Botswana,2013,2021
-21,Brazil,2012,198656
-21,Brazil,2013,200362
-23,Belize,2012,324
-23,Belize,2013,332
-25,Solomon Islands,2012,550
-25,Solomon Islands,2013,561
-26,Brunei Darussalam,2012,412
-26,Brunei Darussalam,2013,418
-27,Bulgaria,2012,7278
-27,Bulgaria,2013,7223
-28,Myanmar,2012,52797
-28,Myanmar,2013,53259
-32,Cameroon,2012,21700
-32,Cameroon,2013,22254
-33,Canada,2012,34838
-33,Canada,2013,35182
-35,Cabo Verde,2012,494
-35,Cabo Verde,2013,499
-37,Central African Republic,2012,4525
-37,Central African Republic,2013,4616
-38,Sri Lanka,2012,21098
-38,Sri Lanka,2013,21273
-39,Chad,2012,12448
-39,Chad,2013,12825
-40,Chile,2012,17465
-40,Chile,2013,17620
-44,Colombia,2012,47704
-44,Colombia,2013,48321
-46,Congo,2012,4337
-46,Congo,2013,4448
-48,Costa Rica,2012,4805
-48,Costa Rica,2013,4872
-49,Cuba,2012,11271
-49,Cuba,2013,11266
-50,Cyprus,2012,1129
-50,Cyprus,2013,1141
-52,Azerbaijan,2012,9309
-52,Azerbaijan,2013,9413
-53,Benin,2012,10051
-53,Benin,2013,10323
-54,Denmark,2012,5598
-54,Denmark,2013,5619
-55,Dominica,2012,72
-55,Dominica,2013,72
-56,Dominican Republic,2012,10277
-56,Dominican Republic,2013,10404
-57,Belarus,2012,9405
-57,Belarus,2013,9357
-58,Ecuador,2012,15492
-58,Ecuador,2013,15738
-59,Egypt,2012,80722
-59,Egypt,2013,82056
-60,El Salvador,2012,6297
-60,El Salvador,2013,6340
-63,Estonia,2012,1291
-63,Estonia,2013,1287
-66,Fiji,2012,875
-66,Fiji,2013,881
-67,Finland,2012,5408
-67,Finland,2013,5426
-68,France,2012,63937
-68,France,2013,64291
-70,French Polynesia,2012,274
-70,French Polynesia,2013,277
-72,Djibouti,2012,860
-72,Djibouti,2013,873
-73,Georgia,2012,4358
-73,Georgia,2013,4341
-74,Gabon,2012,1633
-74,Gabon,2013,1672
-75,Gambia,2012,1791
-75,Gambia,2013,1849
-79,Germany,2012,82800
-79,Germany,2013,82727
-80,Bosnia and Herzegovina,2012,3834
-80,Bosnia and Herzegovina,2013,3829
-81,Ghana,2012,25366
-81,Ghana,2013,25905
-83,Kiribati,2012,101
-83,Kiribati,2013,102
-84,Greece,2012,11125
-84,Greece,2013,11128
-86,Grenada,2012,105
-86,Grenada,2013,106
-89,Guatemala,2012,15083
-89,Guatemala,2013,15468
-90,Guinea,2012,11451
-90,Guinea,2013,11745
-91,Guyana,2012,795
-91,Guyana,2013,800
-93,Haiti,2012,10174
-93,Haiti,2013,10317
-95,Honduras,2012,7936
-95,Honduras,2013,8096
-96,"China, Hong Kong SAR",2012,7148
-96,"China, Hong Kong SAR",2013,7204
-97,Hungary,2012,9976
-97,Hungary,2013,9955
-98,Croatia,2012,4307
-98,Croatia,2013,4290
-99,Iceland,2012,326
-99,Iceland,2013,330
-100,India,2012,1236687
-100,India,2013,1252140
-101,Indonesia,2012,246864
-101,Indonesia,2013,249866
-102,Iran (Islamic Republic of),2012,76424
-102,Iran (Islamic Republic of),2013,77447
-103,Iraq,2012,32778
-103,Iraq,2013,33765
-104,Ireland,2012,4576
-104,Ireland,2013,4627
-105,Israel,2012,7644
-105,Israel,2013,7733
-106,Italy,2012,60885
-106,Italy,2013,60990
-107,Côte d'Ivoire,2012,19840
-107,Côte d'Ivoire,2013,20316
-108,Kazakhstan,2012,16271
-108,Kazakhstan,2013,16441
-109,Jamaica,2012,2769
-109,Jamaica,2013,2784
-110,Japan,2012,127250
-110,Japan,2013,127144
-112,Jordan,2012,7009
-112,Jordan,2013,7274
-113,Kyrgyzstan,2012,5474
-113,Kyrgyzstan,2013,5548
-114,Kenya,2012,43178
-114,Kenya,2013,44354
-115,Cambodia,2012,14865
-115,Cambodia,2013,15135
-116,Democratic People's Republic of Korea,2012,24763
-116,Democratic People's Republic of Korea,2013,24895
-117,Republic of Korea,2012,49003
-117,Republic of Korea,2013,49263
-118,Kuwait,2012,3250
-118,Kuwait,2013,3369
-119,Latvia,2012,2060
-119,Latvia,2013,2050
-120,Lao People's Democratic Republic,2012,6646
-120,Lao People's Democratic Republic,2013,6770
-121,Lebanon,2012,4647
-121,Lebanon,2013,4822
-122,Lesotho,2012,2052
-122,Lesotho,2013,2074
-123,Liberia,2012,4190
-123,Liberia,2013,4294
-126,Lithuania,2012,3028
-126,Lithuania,2013,3017
-128,"China, Macao SAR",2012,557
-128,"China, Macao SAR",2013,566
-129,Madagascar,2012,22294
-129,Madagascar,2013,22925
-130,Malawi,2012,15906
-130,Malawi,2013,16363
-131,Malaysia,2012,29240
-131,Malaysia,2013,29717
-132,Maldives,2012,338
-132,Maldives,2013,345
-133,Mali,2012,14854
-133,Mali,2013,15302
-134,Malta,2012,428
-134,Malta,2013,429
-136,Mauritania,2012,3796
-136,Mauritania,2013,3890
-137,Mauritius,2012,1240
-137,Mauritius,2013,1244
-138,Mexico,2012,120847
-138,Mexico,2013,122332
-141,Mongolia,2012,2796
-141,Mongolia,2013,2839
-143,Morocco,2012,32521
-143,Morocco,2013,33008
-144,Mozambique,2012,25203
-144,Mozambique,2013,25834
-146,Republic of Moldova,2012,3514
-146,Republic of Moldova,2013,3487
-147,Namibia,2012,2259
-147,Namibia,2013,2303
-149,Nepal,2012,27474
-149,Nepal,2013,27797
-150,Netherlands,2012,16714
-150,Netherlands,2013,16759
-153,New Caledonia,2012,253
-153,New Caledonia,2013,256
-154,North Macedonia,2012,2106
-154,North Macedonia,2013,2107
-155,Vanuatu,2012,247
-155,Vanuatu,2013,253
-156,New Zealand,2012,4460
-156,New Zealand,2013,4506
-157,Nicaragua,2012,5992
-157,Nicaragua,2013,6080
-158,Niger,2012,17157
-158,Niger,2013,17831
-159,Nigeria,2012,168834
-159,Nigeria,2013,173615
-162,Norway,2012,4994
-162,Norway,2013,5043
-165,Pakistan,2012,179160
-165,Pakistan,2013,182143
-166,Panama,2012,3802
-166,Panama,2013,3864
-167,Czechia,2012,10660
-167,Czechia,2013,10702
-169,Paraguay,2012,6687
-169,Paraguay,2013,6802
-170,Peru,2012,29988
-170,Peru,2013,30376
-171,Philippines,2012,96707
-171,Philippines,2013,98394
-173,Poland,2012,38211
-173,Poland,2013,38217
-174,Portugal,2012,10604
-174,Portugal,2013,10608
-175,Guinea-Bissau,2012,1664
-175,Guinea-Bissau,2013,1704
-176,Timor-Leste,2012,1114
-176,Timor-Leste,2013,1133
-181,Zimbabwe,2012,13724
-181,Zimbabwe,2013,14150
-183,Romania,2012,21755
-183,Romania,2013,21699
-184,Rwanda,2012,11458
-184,Rwanda,2013,11777
-185,Russian Federation,2012,143170
-185,Russian Federation,2013,142834
-188,Saint Kitts and Nevis,2012,54
-188,Saint Kitts and Nevis,2013,54
-189,Saint Lucia,2012,181
-189,Saint Lucia,2013,182
-191,Saint Vincent and the Grenadines,2012,109
-191,Saint Vincent and the Grenadines,2013,109
-193,Sao Tome and Principe,2012,188
-193,Sao Tome and Principe,2013,193
-194,Saudi Arabia,2012,28288
-194,Saudi Arabia,2013,28829
-195,Senegal,2012,13726
-195,Senegal,2013,14133
-197,Sierra Leone,2012,5979
-197,Sierra Leone,2013,6092
-198,Slovenia,2012,2068
-198,Slovenia,2013,2072
-199,Slovakia,2012,5446
-199,Slovakia,2013,5450
-202,South Africa,2012,52386
-202,South Africa,2013,52776
-203,Spain,2012,46755
-203,Spain,2013,46927
-207,Suriname,2012,535
-207,Suriname,2013,539
-208,Tajikistan,2012,8009
-208,Tajikistan,2013,8208
-209,Eswatini,2012,1231
-209,Eswatini,2013,1250
-210,Sweden,2012,9511
-210,Sweden,2013,9571
-211,Switzerland,2012,7997
-211,Switzerland,2013,8078
-213,Turkmenistan,2012,5173
-213,Turkmenistan,2013,5240
-214,"China, Taiwan Province of",2012,23272
-214,"China, Taiwan Province of",2013,23330
-215,United Republic of Tanzania,2012,47783
-215,United Republic of Tanzania,2013,49253
-216,Thailand,2012,66785
-216,Thailand,2013,67011
-217,Togo,2012,6643
-217,Togo,2013,6817
-220,Trinidad and Tobago,2012,1337
-220,Trinidad and Tobago,2013,1341
-221,Oman,2012,3314
-221,Oman,2013,3632
-222,Tunisia,2012,10875
-222,Tunisia,2013,10997
-223,Turkey,2012,73997
-223,Turkey,2013,74933
-225,United Arab Emirates,2012,9206
-225,United Arab Emirates,2013,9346
-226,Uganda,2012,36346
-226,Uganda,2013,37579
-229,United Kingdom,2012,63030
-229,United Kingdom,2013,63384
-230,Ukraine,2012,45530
-230,Ukraine,2013,45239
-231,United States of America,2012,317505
-231,United States of America,2013,320051
-233,Burkina Faso,2012,16460
-233,Burkina Faso,2013,16935
-234,Uruguay,2012,3395
-234,Uruguay,2013,3407
-235,Uzbekistan,2012,28541
-235,Uzbekistan,2013,28934
-236,Venezuela (Bolivarian Republic of),2012,29955
-236,Venezuela (Bolivarian Republic of),2013,30405
-237,Viet Nam,2012,90796
-237,Viet Nam,2013,91680
-238,Ethiopia,2012,91729
-238,Ethiopia,2013,94101
-244,Samoa,2012,189
-244,Samoa,2013,190
-249,Yemen,2012,23852
-249,Yemen,2013,24407
-251,Zambia,2012,14075
-251,Zambia,2013,14539
-255,Belgium,2012,11060
-255,Belgium,2013,11104
-256,Luxembourg,2012,524
-256,Luxembourg,2013,530
-272,Serbia,2012,9553
-272,Serbia,2013,9511
-273,Montenegro,2012,621
-273,Montenegro,2013,621
-276,Sudan,2012,37195
-276,Sudan,2013,37964
-351,China,2012,1408042
-351,China,2013,1416667
+,country,country_code,year,population
+0,2,Afghanistan,2012,29825
+1,2,Afghanistan,2013,30552
+2,3,Albania,2012,3162
+3,3,Albania,2013,3173
+4,4,Algeria,2012,38482
+5,4,Algeria,2013,39208
+6,7,Angola,2012,20821
+7,7,Angola,2013,21472
+8,8,Antigua and Barbuda,2012,89
+9,8,Antigua and Barbuda,2013,90
+10,9,Argentina,2012,41087
+11,9,Argentina,2013,41446
+12,1,Armenia,2012,2969
+13,1,Armenia,2013,2977
+14,10,Australia,2012,23050
+15,10,Australia,2013,23343
+16,11,Austria,2012,8464
+17,11,Austria,2013,8495
+18,52,Azerbaijan,2012,9309
+19,52,Azerbaijan,2013,9413
+20,12,Bahamas,2012,372
+21,12,Bahamas,2013,377
+22,16,Bangladesh,2012,154695
+23,16,Bangladesh,2013,156595
+24,14,Barbados,2012,283
+25,14,Barbados,2013,285
+26,57,Belarus,2012,9405
+27,57,Belarus,2013,9357
+28,255,Belgium,2012,11060
+29,255,Belgium,2013,11104
+30,23,Belize,2012,324
+31,23,Belize,2013,332
+32,53,Benin,2012,10051
+33,53,Benin,2013,10323
+34,17,Bermuda,2012,65
+35,17,Bermuda,2013,65
+36,19,Bolivia (Plurinational State of),2012,10496
+37,19,Bolivia (Plurinational State of),2013,10671
+38,80,Bosnia and Herzegovina,2012,3834
+39,80,Bosnia and Herzegovina,2013,3829
+40,20,Botswana,2012,2004
+41,20,Botswana,2013,2021
+42,21,Brazil,2012,198656
+43,21,Brazil,2013,200362
+44,26,Brunei Darussalam,2012,412
+45,26,Brunei Darussalam,2013,418
+46,27,Bulgaria,2012,7278
+47,27,Bulgaria,2013,7223
+48,233,Burkina Faso,2012,16460
+49,233,Burkina Faso,2013,16935
+50,35,Cabo Verde,2012,494
+51,35,Cabo Verde,2013,499
+52,115,Cambodia,2012,14865
+53,115,Cambodia,2013,15135
+54,32,Cameroon,2012,21700
+55,32,Cameroon,2013,22254
+56,33,Canada,2012,34838
+57,33,Canada,2013,35182
+58,37,Central African Republic,2012,4525
+59,37,Central African Republic,2013,4616
+60,39,Chad,2012,12448
+61,39,Chad,2013,12825
+62,40,Chile,2012,17465
+63,40,Chile,2013,17620
+64,96,"China, Hong Kong SAR",2012,7148
+65,96,"China, Hong Kong SAR",2013,7204
+66,128,"China, Macao SAR",2012,557
+67,128,"China, Macao SAR",2013,566
+68,214,"China, Taiwan Province of",2012,23272
+69,214,"China, Taiwan Province of",2013,23330
+70,44,Colombia,2012,47704
+71,44,Colombia,2013,48321
+72,46,Congo,2012,4337
+73,46,Congo,2013,4448
+74,48,Costa Rica,2012,4805
+75,48,Costa Rica,2013,4872
+76,107,Côte d'Ivoire,2012,19840
+77,107,Côte d'Ivoire,2013,20316
+78,98,Croatia,2012,4307
+79,98,Croatia,2013,4290
+80,49,Cuba,2012,11271
+81,49,Cuba,2013,11266
+82,50,Cyprus,2012,1129
+83,50,Cyprus,2013,1141
+84,167,Czechia,2012,10660
+85,167,Czechia,2013,10702
+86,116,Democratic People's Republic of Korea,2012,24763
+87,116,Democratic People's Republic of Korea,2013,24895
+88,54,Denmark,2012,5598
+89,54,Denmark,2013,5619
+90,72,Djibouti,2012,860
+91,72,Djibouti,2013,873
+92,55,Dominica,2012,72
+93,55,Dominica,2013,72
+94,56,Dominican Republic,2012,10277
+95,56,Dominican Republic,2013,10404
+96,58,Ecuador,2012,15492
+97,58,Ecuador,2013,15738
+98,59,Egypt,2012,80722
+99,59,Egypt,2013,82056
+100,60,El Salvador,2012,6297
+101,60,El Salvador,2013,6340
+102,63,Estonia,2012,1291
+103,63,Estonia,2013,1287
+104,238,Ethiopia,2012,91729
+105,238,Ethiopia,2013,94101
+106,66,Fiji,2012,875
+107,66,Fiji,2013,881
+108,67,Finland,2012,5408
+109,67,Finland,2013,5426
+110,68,France,2012,63937
+111,68,France,2013,64291
+112,70,French Polynesia,2012,274
+113,70,French Polynesia,2013,277
+114,74,Gabon,2012,1633
+115,74,Gabon,2013,1672
+116,75,Gambia,2012,1791
+117,75,Gambia,2013,1849
+118,73,Georgia,2012,4358
+119,73,Georgia,2013,4341
+120,79,Germany,2012,82800
+121,79,Germany,2013,82727
+122,81,Ghana,2012,25366
+123,81,Ghana,2013,25905
+124,84,Greece,2012,11125
+125,84,Greece,2013,11128
+126,86,Grenada,2012,105
+127,86,Grenada,2013,106
+128,89,Guatemala,2012,15083
+129,89,Guatemala,2013,15468
+130,90,Guinea,2012,11451
+131,90,Guinea,2013,11745
+132,175,Guinea-Bissau,2012,1664
+133,175,Guinea-Bissau,2013,1704
+134,91,Guyana,2012,795
+135,91,Guyana,2013,800
+136,93,Haiti,2012,10174
+137,93,Haiti,2013,10317
+138,95,Honduras,2012,7936
+139,95,Honduras,2013,8096
+140,97,Hungary,2012,9976
+141,97,Hungary,2013,9955
+142,99,Iceland,2012,326
+143,99,Iceland,2013,330
+144,100,India,2012,1236687
+145,100,India,2013,1252140
+146,101,Indonesia,2012,246864
+147,101,Indonesia,2013,249866
+148,102,Iran (Islamic Republic of),2012,76424
+149,102,Iran (Islamic Republic of),2013,77447
+150,103,Iraq,2012,32778
+151,103,Iraq,2013,33765
+152,104,Ireland,2012,4576
+153,104,Ireland,2013,4627
+154,105,Israel,2012,7644
+155,105,Israel,2013,7733
+156,106,Italy,2012,60885
+157,106,Italy,2013,60990
+158,109,Jamaica,2012,2769
+159,109,Jamaica,2013,2784
+160,110,Japan,2012,127250
+161,110,Japan,2013,127144
+162,112,Jordan,2012,7009
+163,112,Jordan,2013,7274
+164,108,Kazakhstan,2012,16271
+165,108,Kazakhstan,2013,16441
+166,114,Kenya,2012,43178
+167,114,Kenya,2013,44354
+168,83,Kiribati,2012,101
+169,83,Kiribati,2013,102
+170,118,Kuwait,2012,3250
+171,118,Kuwait,2013,3369
+172,113,Kyrgyzstan,2012,5474
+173,113,Kyrgyzstan,2013,5548
+174,120,Lao People's Democratic Republic,2012,6646
+175,120,Lao People's Democratic Republic,2013,6770
+176,119,Latvia,2012,2060
+177,119,Latvia,2013,2050
+178,121,Lebanon,2012,4647
+179,121,Lebanon,2013,4822
+180,122,Lesotho,2012,2052
+181,122,Lesotho,2013,2074
+182,123,Liberia,2012,4190
+183,123,Liberia,2013,4294
+184,126,Lithuania,2012,3028
+185,126,Lithuania,2013,3017
+186,256,Luxembourg,2012,524
+187,256,Luxembourg,2013,530
+188,129,Madagascar,2012,22294
+189,129,Madagascar,2013,22925
+190,130,Malawi,2012,15906
+191,130,Malawi,2013,16363
+192,131,Malaysia,2012,29240
+193,131,Malaysia,2013,29717
+194,132,Maldives,2012,338
+195,132,Maldives,2013,345
+196,133,Mali,2012,14854
+197,133,Mali,2013,15302
+198,134,Malta,2012,428
+199,134,Malta,2013,429
+200,136,Mauritania,2012,3796
+201,136,Mauritania,2013,3890
+202,137,Mauritius,2012,1240
+203,137,Mauritius,2013,1244
+204,138,Mexico,2012,120847
+205,138,Mexico,2013,122332
+206,141,Mongolia,2012,2796
+207,141,Mongolia,2013,2839
+208,273,Montenegro,2012,621
+209,273,Montenegro,2013,621
+210,143,Morocco,2012,32521
+211,143,Morocco,2013,33008
+212,144,Mozambique,2012,25203
+213,144,Mozambique,2013,25834
+214,28,Myanmar,2012,52797
+215,28,Myanmar,2013,53259
+216,147,Namibia,2012,2259
+217,147,Namibia,2013,2303
+218,149,Nepal,2012,27474
+219,149,Nepal,2013,27797
+220,150,Netherlands,2012,16714
+221,150,Netherlands,2013,16759
+222,153,New Caledonia,2012,253
+223,153,New Caledonia,2013,256
+224,156,New Zealand,2012,4460
+225,156,New Zealand,2013,4506
+226,157,Nicaragua,2012,5992
+227,157,Nicaragua,2013,6080
+228,158,Niger,2012,17157
+229,158,Niger,2013,17831
+230,159,Nigeria,2012,168834
+231,159,Nigeria,2013,173615
+232,162,Norway,2012,4994
+233,162,Norway,2013,5043
+234,221,Oman,2012,3314
+235,221,Oman,2013,3632
+236,165,Pakistan,2012,179160
+237,165,Pakistan,2013,182143
+238,166,Panama,2012,3802
+239,166,Panama,2013,3864
+240,169,Paraguay,2012,6687
+241,169,Paraguay,2013,6802
+242,170,Peru,2012,29988
+243,170,Peru,2013,30376
+244,171,Philippines,2012,96707
+245,171,Philippines,2013,98394
+246,173,Poland,2012,38211
+247,173,Poland,2013,38217
+248,174,Portugal,2012,10604
+249,174,Portugal,2013,10608
+250,117,Republic of Korea,2012,49003
+251,117,Republic of Korea,2013,49263
+252,146,Republic of Moldova,2012,3514
+253,146,Republic of Moldova,2013,3487
+254,183,Romania,2012,21755
+255,183,Romania,2013,21699
+256,185,Russian Federation,2012,143170
+257,185,Russian Federation,2013,142834
+258,184,Rwanda,2012,11458
+259,184,Rwanda,2013,11777
+260,188,Saint Kitts and Nevis,2012,54
+261,188,Saint Kitts and Nevis,2013,54
+262,189,Saint Lucia,2012,181
+263,189,Saint Lucia,2013,182
+264,191,Saint Vincent and the Grenadines,2012,109
+265,191,Saint Vincent and the Grenadines,2013,109
+266,244,Samoa,2012,189
+267,244,Samoa,2013,190
+268,193,Sao Tome and Principe,2012,188
+269,193,Sao Tome and Principe,2013,193
+270,194,Saudi Arabia,2012,28288
+271,194,Saudi Arabia,2013,28829
+272,195,Senegal,2012,13726
+273,195,Senegal,2013,14133
+274,272,Serbia,2012,9553
+275,272,Serbia,2013,9511
+276,197,Sierra Leone,2012,5979
+277,197,Sierra Leone,2013,6092
+278,199,Slovakia,2012,5446
+279,199,Slovakia,2013,5450
+280,198,Slovenia,2012,2068
+281,198,Slovenia,2013,2072
+282,25,Solomon Islands,2012,550
+283,25,Solomon Islands,2013,561
+284,202,South Africa,2012,52386
+285,202,South Africa,2013,52776
+286,203,Spain,2012,46755
+287,203,Spain,2013,46927
+288,38,Sri Lanka,2012,21098
+289,38,Sri Lanka,2013,21273
+290,276,Sudan,2012,37195
+291,276,Sudan,2013,37964
+292,207,Suriname,2012,535
+293,207,Suriname,2013,539
+294,209,Eswatini,2012,1231
+295,209,Eswatini,2013,1250
+296,210,Sweden,2012,9511
+297,210,Sweden,2013,9571
+298,211,Switzerland,2012,7997
+299,211,Switzerland,2013,8078
+300,208,Tajikistan,2012,8009
+301,208,Tajikistan,2013,8208
+302,216,Thailand,2012,66785
+303,216,Thailand,2013,67011
+304,154,North Macedonia,2012,2106
+305,154,North Macedonia,2013,2107
+306,176,Timor-Leste,2012,1114
+307,176,Timor-Leste,2013,1133
+308,217,Togo,2012,6643
+309,217,Togo,2013,6817
+310,220,Trinidad and Tobago,2012,1337
+311,220,Trinidad and Tobago,2013,1341
+312,222,Tunisia,2012,10875
+313,222,Tunisia,2013,10997
+314,223,Turkey,2012,73997
+315,223,Turkey,2013,74933
+316,213,Turkmenistan,2012,5173
+317,213,Turkmenistan,2013,5240
+318,226,Uganda,2012,36346
+319,226,Uganda,2013,37579
+320,230,Ukraine,2012,45530
+321,230,Ukraine,2013,45239
+322,225,United Arab Emirates,2012,9206
+323,225,United Arab Emirates,2013,9346
+324,229,United Kingdom,2012,63030
+325,229,United Kingdom,2013,63384
+326,215,United Republic of Tanzania,2012,47783
+327,215,United Republic of Tanzania,2013,49253
+328,231,United States of America,2012,317505
+329,231,United States of America,2013,320051
+330,234,Uruguay,2012,3395
+331,234,Uruguay,2013,3407
+332,235,Uzbekistan,2012,28541
+333,235,Uzbekistan,2013,28934
+334,155,Vanuatu,2012,247
+335,155,Vanuatu,2013,253
+336,236,Venezuela (Bolivarian Republic of),2012,29955
+337,236,Venezuela (Bolivarian Republic of),2013,30405
+338,237,Viet Nam,2012,90796
+339,237,Viet Nam,2013,91680
+340,249,Yemen,2012,23852
+341,249,Yemen,2013,24407
+342,251,Zambia,2012,14075
+343,251,Zambia,2013,14539
+344,181,Zimbabwe,2012,13724
+345,181,Zimbabwe,2013,14150
+346,351,China,2012,1408042
+347,351,China,2013,1416667
