@@ -1,4 +1,3 @@
-- Les 10 pays ayant le plus haut ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
 # Réalisez une étude de santé publique
 Projet 3 du parcours de formation Openclassrooms Data Analyst
 
