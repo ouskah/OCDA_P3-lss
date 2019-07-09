@@ -18,6 +18,45 @@ sqlite> .import equilibre_prod_export.csv equilibre_prod
 sqlite> .import sous_nutrition_export.csv sous_nutrition
 ```
 
+### Question 15
+```
+PRAGMA foreign_keys = 0;
+
+CREATE TABLE sqlitestudio_temp_table AS SELECT *
+                                          FROM population;
+
+DROP TABLE population;
+
+CREATE TABLE population (
+    country_code INT  NOT NULL,
+    country      TEXT,
+    year         INT  NOT NULL,
+    population   INT
+);
+
+INSERT INTO population (
+                           country_code,
+                           country,
+                           year,
+                           population
+                       )
+                       SELECT country_code,
+                              country,
+                              year,
+                              population
+                         FROM sqlitestudio_temp_table;
+
+DROP TABLE sqlitestudio_temp_table;
+
+CREATE UNIQUE INDEX idx ON population (
+    country_code,
+    year
+);
+
+PRAGMA foreign_keys = 1;
+
+```
+
 ### Question 19
 
 - Les 10 pays ayant le plus haut ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
