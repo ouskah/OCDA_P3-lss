@@ -20,41 +20,37 @@ sqlite> .import sous_nutrition_export.csv sous_nutrition
 
 ### Question 15
 ```
-PRAGMA foreign_keys = 0;
-
-CREATE TABLE sqlitestudio_temp_table AS SELECT *
-                                          FROM population;
-
-DROP TABLE population;
-
 CREATE TABLE population (
     country_code INT  NOT NULL,
     country      TEXT,
     year         INT  NOT NULL,
-    population   INT
+    population   INT,
+    PRIMARY KEY (
+        country_code,
+        year
+    )
 );
+```
+### Question 16
 
-INSERT INTO population (
-                           country_code,
-                           country,
-                           year,
-                           population
-                       )
-                       SELECT country_code,
-                              country,
-                              year,
-                              population
-                         FROM sqlitestudio_temp_table;
-
-DROP TABLE sqlitestudio_temp_table;
-
-CREATE UNIQUE INDEX idx ON population (
-    country_code,
-    year
+```
+CREATE TABLE dispo_alim (
+    country                            TEXT,
+    country_code                       INT     NOT NULL,
+    year                               INT     NOT NULL,
+    item                               TEXT,
+    item_code                          INT     NOT NULL,
+    origin                             TEXT,
+    food_supply_quantity_kgcapitayr    DECIMAL,
+    food_supply_kcalcapitaday          DECIMAL,
+    protein_supply_quantity_gcapitaday DECIMAL,
+    fat_supply_quantity_gcapitaday     DECIMAL,
+    PRIMARY KEY (
+        country_code,
+        year,
+        item_code
+    )
 );
-
-PRAGMA foreign_keys = 1;
-
 ```
 
 ### Question 19
