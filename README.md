@@ -87,6 +87,7 @@ CREATE TABLE sous_nutrition (
         year
     )
 );
+```
 
 ### Question 19
 
