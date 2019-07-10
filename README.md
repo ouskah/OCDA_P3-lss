@@ -52,6 +52,41 @@ CREATE TABLE dispo_alim (
     )
 );
 ```
+### Question 17
+```
+CREATE TABLE equilibre_prod (
+    country                  TEXT,
+    country_code             INT,
+    year                     INT,
+    item                     TEXT,
+    item_code                INT     NOT NULL,
+    origin                   TEXT,
+    domestic_supply_quantity DECIMAL,
+    feed                     DECIMAL,
+    seed                     DECIMAL,
+    waste                    DECIMAL,
+    processing               DECIMAL,
+    food                     DECIMAL,
+    other_uses               DECIMAL,
+    PRIMARY KEY (
+        country_code,
+        year,
+        item_code
+    )
+);
+```
+### Question 18
+```
+CREATE TABLE sous_nutrition (
+    country_code INT,
+    country      TEXT,
+    year         INT,
+    population   INT,
+    PRIMARY KEY (
+        country_code,
+        year
+    )
+);
 
 ### Question 19
 
