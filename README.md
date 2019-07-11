@@ -98,7 +98,7 @@ SELECT country, year, SUM((protein_supply_quantity_gcapitaday / 1000) * 365) AS 
 FROM dispo_alim
 GROUP BY country
 ORDER BY ratio DESC
-LIMIT 10
+LIMIT 10;
 ```
 Iceland
 
@@ -207,3 +207,37 @@ Congo
 Sao Tome and Principe
 
 Uganda
+
+- Les 10 produits pour lesquels le ratio Autres utilisations/Disponibilité intérieure est le plus élevé :
+```
+SELECT item, SUM(other_uses/domestic_supply_quantity) AS ratio
+FROM equilibre_prod
+GROUP BY item_code
+ORDER BY ratio DESC
+LIMIT 10;
+```
+
+Alcohol, Non-Food
+
+Aquatic Plants
+
+Cassava and products
+
+Coconut Oil
+
+Fats, Animals, Raw
+
+Fish, Body Oil
+
+Oilcrops Oil, Other
+
+Palm Oil
+
+Palmkernel Oil
+
+Rape and Mustard Oil
+
+### Question 20
+
+Les huiles notamment l'huile de palme sont utilisées comme bio carburant. Leur culture est de plus en plus favorisée par les agriculteurs au détriment du blé par exemple. Elle cause des problèmes de déforestation et de conditions de travail.
+L'Assemblée nationale française a voté le 19 décembre 2018, contre l'avis du gouvernement, un sous-amendement au projet de la loi de finances 2019 disposant que les produits à base d'huile de palme ne sont pas considérés comme des biocarburants.
