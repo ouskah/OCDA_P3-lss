@@ -208,6 +208,35 @@ Sao Tome and Principe
 
 Uganda
 
+- Les 10 pays pour lesquels la proportion de personnes sous-alimentées est la plus forte :
+```
+SELECT country, ((sous_nutrition.population/population.population) * 1000) AS ratio
+FROM sous_nutrition, population
+GROUP BY sous_nutrition.country_code
+ORDER BY ratio DESC
+LIMIT 10;
+```
+
+India
+
+China
+
+Pakistan
+
+Bangladesh
+
+Ethiopia
+
+Nigeria
+
+Indonesia
+
+United Republic of Tanzania
+
+Uganda
+
+Philippines
+
 - Les 10 produits pour lesquels le ratio Autres utilisations/Disponibilité intérieure est le plus élevé :
 ```
 SELECT item, SUM(other_uses/domestic_supply_quantity) AS ratio
