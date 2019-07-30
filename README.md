@@ -210,11 +210,11 @@ Uganda
 
 - Les 10 pays pour lesquels la proportion de personnes sous-alimentées est la plus forte :
 ```
-SELECT country, ((sous_nutrition.population/population.population) * 1000) AS ratio
+SELECT country, year, ((sous_nutrition.population/population.population) * 1000) AS ratio
 FROM sous_nutrition, population
 GROUP BY sous_nutrition.country_code
 ORDER BY ratio DESC
-LIMIT 10;
+LIMIT 10
 ```
 
 India
