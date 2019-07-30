@@ -181,7 +181,7 @@ Uganda
 
 - Les 10 pays ayant le plus bas ratio disponibilité alimentaire/habitant en termes de protéines (en kg) par habitant :
 ```
-SELECT country, year, SUM(protein_supply_quantity_gcapitaday * 365) AS ratio
+SELECT country, year, SUM((protein_supply_quantity_gcapitaday /1000) * 365) AS ratio
 FROM dispo_alim
 GROUP BY country
 ORDER BY ratio ASC
